@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I 'm Codiker.<br>♨Generating bugs every day 🐞<br>♨Learning English 🇬🇧<br>♨ Systems engineer 🎓⚙</h2>
+<h2 align="left">Hi, I 'm Codiker.<br>♨Generating bugs every day 🐞<br>♨Learning English 🇬🇧<br>♨ Systems engineer 🎓⚙</h2>
 
 ###
 
